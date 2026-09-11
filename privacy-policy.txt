@@ -1,0 +1,56 @@
+Seahorse AI – Privacy Policy
+Last updated: September 11, 2026
+
+1. Introduction
+Seahorse AI (“the Bot”, “we”, “us”) is a Discord bot. This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information.
+
+By using Seahorse AI, you agree to the collection and use of information in accordance with this policy.
+
+2. Information We Collect
+Seahorse AI may collect the following information when you use the bot:
+
+• Discord User Data: User ID, username, display name, avatar, and server (guild) ID when you interact with the bot.
+• Message Content: Only the content of messages that trigger bot commands or are necessary for the bot to function.
+• Server Information: Server ID, server name, and channel IDs where the bot is used.
+• Usage Data: Command usage statistics (which commands are used and how often) for improving the bot.
+
+We do not collect:
+• Email addresses
+• IP addresses
+• Payment information
+• Private messages (DMs) unless you specifically interact with the bot in DMs
+
+3. How We Use Your Information
+We use the collected information to:
+• Provide and operate the bot’s features
+• Respond to your commands
+• Improve the bot’s performance and fix bugs
+• Prevent abuse and enforce our rules
+
+4. Data Storage & Retention
+• Data is stored only as long as necessary to provide the service.
+• We do not sell, rent, or share your personal data with third parties for marketing purposes.
+• Some temporary data may be cached in memory while the bot is running and is deleted when the bot restarts or the data is no longer needed.
+
+5. Data Sharing
+We do not share your data with third parties except:
+• When required by law
+• To protect the rights, safety, or property of Seahorse AI, its users, or the public
+
+6. Third-Party Services
+Seahorse AI runs on Discord’s platform. Your use of Discord is also governed by Discord’s Privacy Policy and Terms of Service.
+
+7. Your Rights
+You can:
+• Stop using the bot at any time
+• Request deletion of data related to your user ID (contact the bot owner)
+• Remove the bot from any server you manage
+
+8. Children’s Privacy
+Seahorse AI is not intended for users under the age of 13. We do not knowingly collect data from children under 13.
+
+9. Changes to This Policy
+We may update this Privacy Policy from time to time. The updated version will be posted with a new “Last updated” date.
+
+10. Contact
+If you have any questions about this Privacy Policy or want to request data deletion, contact the bot owner through Discord.
